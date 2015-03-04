@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC231: Introduction to American Politics"
+course_description: "An introductory course on American politics, with an emphasis on its constitutional foundations, the electoral process and political participation, the decision-making process in Congress, the executive branch, and the federal courts."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Civil Rights & Civil Liberties in America** <span
 id="4"></span> 
 *An important aspect of American government is the significance of civil

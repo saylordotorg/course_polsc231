@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC231: Introduction to American Politics"
+course_description: "An introductory course on American politics, with an emphasis on its constitutional foundations, the electoral process and political participation, the decision-making process in Congress, the executive branch, and the federal courts."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: American Political Foundations** <span id="1"></span> 
 *The American political system is rich in history. In order to gain a
 comprehensive understanding of the American government, you will need to

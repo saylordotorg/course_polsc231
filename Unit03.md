@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC231: Introduction to American Politics"
+course_description: "An introductory course on American politics, with an emphasis on its constitutional foundations, the electoral process and political participation, the decision-making process in Congress, the executive branch, and the federal courts."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: American Institutions** <span id="3"></span> 
 *When many people think of the American government, the institutions
 that come to mind most often are Congress, the president, and the

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC231: Introduction to American Politics"
+course_description: "An introductory course on American politics, with an emphasis on its constitutional foundations, the electoral process and political participation, the decision-making process in Congress, the executive branch, and the federal courts."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: American Political Behavior** <span id="2"></span> 
 *The diverse American public is a major component of the American
 political system. Politics touches the lives of all Americans – voters,
