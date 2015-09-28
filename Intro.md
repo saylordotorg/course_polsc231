@@ -238,3 +238,4 @@ hours) on Monday and Tuesday night of week two; etc.
 - [Unit 3](https://legacy.saylor.org/polsc231/Unit03/)
 - [Unit 4](https://legacy.saylor.org/polsc231/Unit04/)
 - [Unit 5](https://legacy.saylor.org/polsc231/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC231/POLSC231-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC231/POLSC231-FinalExam-Answers.html)
