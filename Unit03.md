@@ -148,7 +148,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Web Media: Missouri State University: Dr. Patrick Scott’s
     “Congress”**
     Link: Missouri State University: Dr. Patrick Scott’s
-    [“Congress”](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC2313.12.pdf) (PDF)  
+    [“Congress”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2313.12.pdf) (PDF)  
         
      Instructions: Use this PowerPoint as a reference as you watch the
     lectures “Congress I,” “Congress II,” and “Term Limits” below.  
@@ -229,7 +229,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 12: Congress”**
     Link: *[American Government and Politics in the Information
-    Age](http://www.saylor.org/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
+    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
     “Chapter 12: Congress” (PDF)  
         
      Instructions: Read Chapter 12 on pages 462-530. The US Congress is
@@ -257,7 +257,7 @@ Upon successful completion of this unit, you will be able to:
     Study Guide \#3”**
     Link: Missouri State University: Dr. Patrick Scott’s [“Student Study
     Guide
-    \#3”](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC2313.1.pdf) (PDF)  
+    \#3”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2313.1.pdf) (PDF)  
         
      Instructions: Read over this brief list of questions, which will be
     addressed in Unit 3. You should use it as a guide before each
@@ -275,7 +275,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Activity: The Saylor Foundation’s “Subunit 3.1 − Quickfire Quiz”**
     Link: The Saylor Foundation’s [“Subunit 3.1 − Quickfire
-    Quiz”](http://www.saylor.org/site/wp-content/uploads/2013/02/POLSC231-Quickfire-3.1.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-3.1.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
