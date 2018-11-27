@@ -82,7 +82,7 @@ Upon successful completion of this unit, you will be able to:
     Liberties and Equal Rights”**
     Link: Missouri State University: Dr. Patrick Scott’s [“Civil
     Liberties and Equal
-    Rights”](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC2314.12.pdf) (PDF)  
+    Rights”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2314.12.pdf) (PDF)  
         
      Instructions: Use this PowerPoint as a reference as you watch the
     lectures “Civil Liberties I,” “Civil Liberties II,” and “Equal
@@ -143,7 +143,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 4: Civil Liberties”**
     Link: *[American Government and Politics in the Information
-    Age](http://www.saylor.org/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
+    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
     “Chapter 4: Civil Liberties” (PDF)  
         
      Instructions: Read Chapter 4 on pages 119-156. Civil liberties are
@@ -164,7 +164,7 @@ Upon successful completion of this unit, you will be able to:
     Study Guide \#4: The Judiciary/Civil Rights/Civil Liberties”**
     Link: Missouri State University: Dr. Patrick Scott’s [“Student Study
     Guide \#4: The Judiciary/Civil Rights/Civil
-    Liberties”](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC2314.1.pdf) (PDF)  
+    Liberties”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2314.1.pdf) (PDF)  
         
      Instructions: Read this brief list of questions, which will be
     addressed in Unit 4. You should use it as a guide before each
@@ -181,7 +181,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Activity: The Saylor Foundation’s “Subunit 4.1 − Quickfire Quiz”**
     Link: The Saylor Foundation’s [“Subunit 4.1 − Quickfire
-    Quiz”](http://www.saylor.org/site/wp-content/uploads/2013/02/POLSC231-Quickfire-4.1.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-4.1.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -323,7 +323,7 @@ id="4.1.4"></span> 
 -   **Activity: The Saylor Foundation’s “Subunit 4.1.4 − Quickfire
     Quiz”**
     Link: The Saylor Foundation’s [“Subunit 4.1.4 − Quickfire
-    Quiz”](http://www.saylor.org/site/wp-content/uploads/2013/02/POLSC231-Quickfire-4.1.4.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-4.1.4.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -334,7 +334,7 @@ id="4.1.4"></span> 
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 5: Civil Rights”**
     Link: *[American Government and Politics in the Information
-    Age](http://www.saylor.org/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
+    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
     “Chapter 5: Civil Rights” (PDF)  
         
      Instructions: Read Chapter 5 on pages 156-195. Civil rights protect
@@ -463,7 +463,7 @@ Movement** <span id="4.2.2"></span> 
 -   **Activity: The Saylor Foundation’s “Subunit 4.2.2 − Quickfire
     Quiz”**
     Link: The Saylor Foundation’s [“Subunit 4.2.2 − Quickfire
-    Quiz”](http://www.saylor.org/site/wp-content/uploads/2013/02/POLSC231-Quickfire-4.2.2.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-4.2.2.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -474,7 +474,7 @@ Movement** <span id="4.2.2"></span> 
 -   **Reading: The Saylor Foundation’s “Civil Rights for Women and
     Minorities”**
     Link: The Saylor Foundation’s [“Civil Rights for Women and
-    Minorities”](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC2314.2.3.pdf) (PDF)  
+    Minorities”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2314.2.3.pdf) (PDF)  
         
      Instructions: Read this article, which provides an overview of the
     civil rights movements and obstacles to equality for African
@@ -522,7 +522,7 @@ id="4.2.4"></span> 
 -   **Activity: The Saylor Foundation’s “Unit 4 Current Events
     Challenge”**
     Link: The Saylor Foundation’s [“Unit 4 Current Events
-    Challenge”](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC2314.2.5.pdf) (PDF)  
+    Challenge”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2314.2.5.pdf) (PDF)  
         
      Instructions: Follow the instructions to connect concepts learned
     in Unit 4 to current political events in American government.  
