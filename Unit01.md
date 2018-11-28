@@ -114,7 +114,7 @@ Upon successful completion of this unit, you will be able to:
     Study Guide \#1: Democracy, the Constitution, and Federalism”**
     Link: Missouri State University: Dr. Patrick Scott’s [“Student Study
     Guide \#1: Democracy, the Constitution, and
-    Federalism”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2311.1.pdf) (PDF)  
+    Federalism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2311.1.pdf) (PDF)  
         
      Instructions: Read over this brief list of questions, which will be
     addressed over the course of Unit 1. You should use it as a guide
@@ -158,7 +158,7 @@ id="1.1.1"></span> 
     “American Democracy and Scholarship”**
     Link: Missouri State University: Dr. Patrick Scott’s [“American
     Democracy and
-    Scholarship”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2311.1.1.pdf) (PDF)  
+    Scholarship”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2311.1.1.pdf) (PDF)  
         
      Instructions: Use this PowerPoint as a reference as you watch the
     video lectures in this subunit and in subunit 1.1.3, titled
@@ -270,7 +270,7 @@ id="1.1.2"></span> 
 -   **Activity: The Saylor Foundation’s “Subunit 1.1.3 − Quickfire
     Quiz”**
     Link: The Saylor Foundation’s [“Subunit 1.1.3 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-1.1.3.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-1.1.3.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -282,7 +282,7 @@ id="1.1.2"></span> 
     Constitution and the Founding”**
     Link: Missouri State University: Dr. Patrick Scott’s [“The
     Constitution and the
-    Founding”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Programs_3_5_Constitution.pptx) (PPT)  
+    Founding”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Programs_3_5_Constitution.pptx) (PPT)  
         
      Instructions: Use this PowerPoint as a reference as you watch the
     video lectures “The Constitution I” and “The Constitution II”
@@ -335,7 +335,7 @@ id="1.1.2"></span> 
     Power”**
     Link: *American Government and Politics in the Information Age*:
     [“Chapter 2: The Constitution and the Structure of Government
-    Power”](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
+    Power”](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
     (PDF)  
         
      Instructions: Read Chapter 2 on pages 47-84 for a solid background
@@ -376,7 +376,7 @@ id="1.1.2"></span> 
 
 -   **Activity: The Saylor Foundation’s “Subunit 1.2 − Quickfire Quiz”**
     Link: The Saylor Foundation’s [“Subunit 1.2 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-1.2.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-1.2.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -390,9 +390,9 @@ id="1.2.1"></span> 
     Independence”**
     Link: The National Archives’ *Charters of Freedom*: [“The
     Declaration of Independence: A
-    History”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2311.2.1.pdf) (PDF)
+    History”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2311.2.1.pdf) (PDF)
     and [“The Declaration of
-    Independence”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2311.2.12.pdf) (PDF)  
+    Independence”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2311.2.12.pdf) (PDF)  
         
      Instructions: Read both documents. The Declaration of Independence
     is a statement adopted by the Continental Congress on July 4, 1776,
@@ -450,7 +450,7 @@ id="1.2.2"></span> 
     Debates and Compromise”**
     Link: The Saylor Foundation’s [“Constitutional Convention: Debates
     and
-    Compromise”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-1.2.3-Constitutional-Convention-Debates-and-Compromise-FINAL.pdf)
+    Compromise”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-1.2.3-Constitutional-Convention-Debates-and-Compromise-FINAL.pdf)
     (PDF)  
         
      Instructions: Read this short article, which will provide you with
@@ -476,7 +476,7 @@ id="1.2.2"></span> 
 -   **Assessment: The Saylor Foundation’s “Comparing Constitutional
     Convention Plans”**
     Link: The Saylor Foundation’s [“Comparing Constitutional Convention
-    Plans”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-1.2.3-Assessment-FINAL-Worksheet.pdf)
+    Plans”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-1.2.3-Assessment-FINAL-Worksheet.pdf)
     (PDF)  
         
      Instructions: During the 1787 Constitutional Convention, the most
@@ -506,7 +506,7 @@ id="1.2.2"></span> 
 -   **Activity: The Saylor Foundation’s “Subunit 1.2.3 − Quickfire
     Quiz”**
     Link: The Saylor Foundation’s [“Subunit 1.2.3 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-1.2.3.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-1.2.3.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -520,9 +520,9 @@ id="1.2.2"></span> 
     and “The Bill of Rights”**
     Link: US Department of State: *About America: The Constitution of
     the United States*: J. W. Peltason’s [“Ratifying the
-    Constitution”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2311.2.5.pdf) (PDF)
+    Constitution”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2311.2.5.pdf) (PDF)
     and [“The Bill of
-    Rights”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2311.2.52.pdf) (PDF)  
+    Rights”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2311.2.52.pdf) (PDF)  
         
      Instructions: Read these short excerpts for some background
     information on the important role that the Bill of Rights played in
@@ -582,7 +582,7 @@ id="1.2.2"></span> 
 -   **Reading: The Saylor Foundation’s “Subunit 1.2.5 − Quickfire
     Quiz”**
     Link: The Saylor Foundation’s [“Subunit 1.2.5 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-1.2.5.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-1.2.5.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -634,7 +634,7 @@ id="1.2.2"></span> 
 -   **Assessment: The Saylor Foundation’s “The Constitution Guiding
     Questions”**
     Link: The Saylor Foundation’s [“The Constitution Guiding
-    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-1.2.5-Assessment-FINAL.pdf)
+    Questions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-1.2.5-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: The Constitution originally consisted of seven
@@ -653,7 +653,7 @@ id="1.2.2"></span> 
     States](http://resources.saylor.org/POLSC/POLSC231/POLSC231-1.2.5-ConstitutionOfTheUS-PD_files/POLSC231-1.2.5-ConstitutionOfTheUS-PD.htm),
     answer these questions about the original text, and then check your
     answers with [this answer
-    key](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-1.2.5-AnswerKey-FINAL.pdf).  
+    key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-1.2.5-AnswerKey-FINAL.pdf).  
         
      Completing this assessment should take approximately 2 hours.  
       
@@ -687,7 +687,7 @@ id="1.2.6"></span> 
 
 -   **Reading: US Department of State: “An Adaptable Document”**
     Link: US Department of State: [“An Adaptable
-    Document”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-1.2.6-AnAdaptableDocument.pdf) (PDF)  
+    Document”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-1.2.6-AnAdaptableDocument.pdf) (PDF)  
         
      Instructions: Read this short excerpt on the Constitution’s
     worldwide influence. After the US Constitution was ratified in 1788,
@@ -739,7 +739,7 @@ id="1.2.6"></span> 
 -   **Web Media: Missouri State University: Dr. Patrick Scott’s
     “Federalism”**
     Link: Missouri State University: Dr. Patrick Scott’s
-    [“Federalism”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2311.3.pdf) (PDF)  
+    [“Federalism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2311.3.pdf) (PDF)  
         
      Instructions: Use this PowerPoint as a reference as you watch the
     video lectures “Federalism I” and “Federalism II” below.  
@@ -801,7 +801,7 @@ id="1.2.6"></span> 
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 3: Federalism”**
     Link: *[American Government and Politics in the Information
-    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
+    Age](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
     “Chapter 3: Federalism” (PDF)  
         
      Instructions: Read this chapter on the federalist system of
@@ -853,7 +853,7 @@ id="1.2.6"></span> 
 
 -   **Activity: The Saylor Foundation’s “Subunit 1.3 − Quickfire Quiz”**
     Link: The Saylor Foundation’s [“Subunit 1.3 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-1.3.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-1.3.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -943,7 +943,7 @@ id="1.2.6"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Everyday Federalism”**
     Link: The Saylor Foundation’s [“Everyday
-    Federalism”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-1.3.3-Assessment-FINAL1.pdf)
+    Federalism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-1.3.3-Assessment-FINAL1.pdf)
     (PDF)  
         
      Instructions: The US Constitution establishes a government based on
@@ -974,7 +974,7 @@ id="1.2.6"></span> 
     the prevalence of government in their everyday lives. The below
     story was formulated by the National Conference of State
     Legislators. Read through [this
-    story](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-1.3.3-Assessment-FINAL1.pdf)
+    story](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-1.3.3-Assessment-FINAL1.pdf)
     and identify the level of government – federal, state, or local –
     that would most likely deal with each of the items that are
     underlined. (Some items may involve more than one level of
@@ -1015,7 +1015,7 @@ national government.*
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 3, Section 4: Federalism in the Information Age”**
     Link: [*American Government and Politics in the Information
-    Age*](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf):
+    Age*](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf):
     “Chapter 3, Section 4: Federalism in the Information Age” (PDF)  
         
      Instructions: Read this section on pages 112-118, which analyzes
@@ -1037,7 +1037,7 @@ national government.*
 -   **Activity: The Saylor Foundation’s “Unit 1 Current Events
     Challenge”**
     Link: The Saylor Foundation’s [“Unit 1 Current Events
-    Challenge”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2311.3.5.pdf) (PDF)  
+    Challenge”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2311.3.5.pdf) (PDF)  
         
      Instructions: Follow the instructions linked above to connect
     concepts learned in Unit 1 to current political events in American
