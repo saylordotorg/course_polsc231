@@ -152,7 +152,7 @@ id="2.1"></span> 
     Study Guide \#2: American Political Behavior”**
     Link: Missouri State University: Dr. Patrick Scott’s [“Student Study
     Guide \#2: American Political
-    Behavior”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2312.1.pdf) (PDF)  
+    Behavior”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2312.1.pdf) (PDF)  
         
      Instructions: Read over this brief list of questions, all of which
     will be addressed in Unit 2. You should use it as a guide before
@@ -174,7 +174,7 @@ id="2.1.1"></span> 
     Opinion and the Media”**
     Link: Missouri State University: Dr. Patrick Scott’s [“Public
     Opinion and the
-    Media”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Programs_8_11_Public_opinion.ppt) (PPT)  
+    Media”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Programs_8_11_Public_opinion.ppt) (PPT)  
         
      Instructions: Use this PowerPoint as a reference as you watch the
     lectures “Public Opinion” and “The Media” below.  
@@ -221,7 +221,7 @@ id="2.1.1"></span> 
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 7: Public Opinion”**
     Link: *[American Government and Politics in the Information
-    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
+    Age](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
     “Chapter 7: Public Opinion” (PDF)  
         
      Instructions: Read this chapter on pages 241-277. It provides a
@@ -242,7 +242,7 @@ id="2.1.1"></span> 
 -   **Activity: The Saylor Foundation’s “Subunit 2.1.1 − Quickfire
     Quiz”**
     Link: The Saylor Foundation’s [“Subunit 2.1.1 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-2.1.1.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-2.1.1.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -255,7 +255,7 @@ id="2.1.2"></span> 
     “Political Polls: Why We Just Can’t Live Without Them”**
     Link: US Department of State: John Zogby’s *The Long Campaign*:
     [“Political Polls: Why We Just Can’t Live Without
-    Them”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2312.1.2.pdf) (PDF)  
+    Them”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2312.1.2.pdf) (PDF)  
         
      Instructions: Public opinion polls are often used in order to gauge
     a candidate’s appeal to the public. Read the text to learn more
@@ -296,7 +296,7 @@ id="2.1.3"></span> 
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 6: Political Culture and Socialization”**
     Link: *[American Government and Politics in the Information
-    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
+    Age](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
     “Chapter 6: Political Culture and Socialization” (PDF)  
         
      Instructions: Read Chapter 6 on pages 195-241, which explains how
@@ -319,7 +319,7 @@ id="2.1.3"></span> 
 id="2.1.4"></span> 
 -   **Reading: The Saylor Foundation’s “Political Ideology”**
     Link: The Saylor Foundation’s [“Political
-    Ideology”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2312.1.4.pdf) (PDF)  
+    Ideology”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2312.1.4.pdf) (PDF)  
         
      Instructions: Read these brief definitions of various types of
     political ideologies.  
@@ -331,7 +331,7 @@ id="2.1.4"></span> 
 -   **Web Media: Missouri State University: Dr. Patrick Scott’s “The
     Media”**
     Link: Missouri State University: Dr. Patrick Scott’s [“The
-    Media”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2312.2.pdf) (PDF)  
+    Media”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2312.2.pdf) (PDF)  
         
      Instructions: Use this PowerPoint as a reference as you watch the
     lecture “The Media” below.  
@@ -377,7 +377,7 @@ id="2.1.4"></span> 
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 1: Communication in the Information Age”**
     Link: *[American Government and Politics in the Information
-    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
+    Age](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
     “Chapter 1: Communication in the Information Age” (PDF)  
         
      Instructions: Read Chapter 1 on pages 8-47. The media, in
@@ -405,7 +405,7 @@ id="2.1.4"></span> 
 
 -   **Activity: The Saylor Foundation’s “Subunit 2.2 − Quickfire Quiz”**
     Link: The Saylor Foundation’s [“Subunit 2.2 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-2.2.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-2.2.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -433,7 +433,7 @@ id="2.2.1"></span> 
 -   **Reading: US Department of State: David Vaina’s “New Media Versus
     Old Media”**
     Link: US Department of State: David Vaina’s [“New Media Versus Old
-    Media”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-2.2.1-NewMediaVsOldMedia.pdf) (HTML)  
+    Media”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-2.2.1-NewMediaVsOldMedia.pdf) (HTML)  
         
      Instructions: Read this article to learn more about how new
     technologies have influenced the media and politics in our country.
@@ -474,7 +474,7 @@ id="2.2.2"></span> 
     Policy of Media Ownership”**
     Link: The Saylor Foundation's [“Introduction to the Politics and
     Policy of Media
-    Ownership”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-2.2.2-Politics-and-Policy-of-Media-Ownership-FINAL.pdf)
+    Ownership”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-2.2.2-Politics-and-Policy-of-Media-Ownership-FINAL.pdf)
     (PDF)  
         
      Instructions: Read this introduction to the politics and policy of
@@ -487,7 +487,7 @@ id="2.2.2"></span> 
     Review*: Ben Scott’s “The Policy and Politics of Media Ownership”**
     Link: Washington College of Law: *American University Law
     Review*: Ben Scott’s [“The Policy and Politics of Media
-    Ownership”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2312.2.2.pdf) (PDF)  
+    Ownership”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2312.2.2.pdf) (PDF)  
         
      Instructions: Read this report. Ben Scott argues that the 2003
     congressional decision to reverse a Federal Communications
@@ -569,7 +569,7 @@ id="2.2.4"></span> 
 -   **Assessment: The Saylor Foundation’s “Analyzing Political
     Cartoons”**
     Link: The Saylor Foundation’s [“Analyzing Political
-    Cartoons”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-2.2.4-Assessment-FINAL.pdf)
+    Cartoons”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-2.2.4-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Political cartoons are illustrations containing a
@@ -595,10 +595,10 @@ id="2.2.4"></span> 
      For this assessment you will analyze the techniques, styles, and
     themes of various contemporary political cartoons. Please follow the
     directions in [this
-    file](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-2.2.4-Assessment-FINAL.pdf).
+    file](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-2.2.4-Assessment-FINAL.pdf).
     Ater you complete the assessment, check your work against [this
     guide to
-    responding](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-2.2.4-GuideToResponding-FINAL.pdf).  
+    responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-2.2.4-GuideToResponding-FINAL.pdf).  
         
      Completing this assessment should take approximately 2 hours.
 
@@ -643,7 +643,7 @@ Democracy** <span id="2.2.5"></span> 
 -   **Web Media: Missouri State University: Dr. Patrick Scott’s “Voting
     Behavior”**
     Link: Missouri State University: Dr. Patrick Scott’s [“Voting
-    Behavior”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Programs_11_12_Political_Participation_Voting_Behavior.ppt) (PPT)  
+    Behavior”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/Programs_11_12_Political_Participation_Voting_Behavior.ppt) (PPT)  
         
      Instructions: Use this PowerPoint as a reference as you watch the
     lecture “Political Participation” below.  
@@ -699,7 +699,7 @@ Democracy** <span id="2.2.5"></span> 
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 8: Participation, Voting, and Social Movements”**
     Link: *[American Government and Politics in the Information
-    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
+    Age](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
     “Chapter 8: Participation, Voting, and Social Movements” (PDF)  
         
      Instructions: Read Chapter 8 on pages 277-323. There are many
@@ -722,7 +722,7 @@ Democracy** <span id="2.2.5"></span> 
 
 -   **Activity: The Saylor Foundation’s “Subunit 2.3 − Quickfire Quiz”**
     Link: The Saylor Foundation’s [“Subunit 2.3 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-2.3.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-2.3.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -806,7 +806,7 @@ Time** <span id="2.3.2"></span> 
     Presidential Election”**
     Link: The Saylor Foundation’s [“Voter Turnout in the 2012
     Presidential
-    Election”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-2.3.2-Assessment-FINAL.pdf)
+    Election”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-2.3.2-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Voter turnout in the United States has risen and
@@ -822,11 +822,11 @@ Time** <span id="2.3.2"></span> 
     a healthy democracy.  
         
      For [this
-    assessment](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-2.3.2-Assessment-FINAL.pdf),
+    assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-2.3.2-Assessment-FINAL.pdf),
     you will use national and state-specific voter-turnout data to
     discover patterns and draw conclusions about voting in the U.S. When
     you have finished, check your work against [this answer
-    key](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-2.3.2-AnswerKey-FINAL.pdf).  
+    key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-2.3.2-AnswerKey-FINAL.pdf).  
         
      Completing this assessment should take approximately 1 hour and 30
     minutes.
@@ -835,7 +835,7 @@ Time** <span id="2.3.2"></span> 
 -   **Web Media: Missouri State University: Dr. Patrick Scott’s
     “Political Parties”**
     Link: Missouri State University: Dr. Patrick Scott’s [“Political
-    Parties”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2312.4.pdf) (PDF)  
+    Parties”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2312.4.pdf) (PDF)  
         
      Instructions: Use this PowerPoint as a reference as you watch the
     lectures “Political Parties I” and “Political Parties II” below.  
@@ -888,7 +888,7 @@ Time** <span id="2.3.2"></span> 
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 10: Political Parties”**
     Link: *[American Government and Politics in the Information
-    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
+    Age](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
     “Chapter 10: Political Parties” (PDF)  
         
      Instructions: Read this chapter on pages 354-406. Political parties
@@ -908,7 +908,7 @@ Time** <span id="2.3.2"></span> 
 
 -   **Activity: The Saylor Foundation’s “Subunit 2.4 − Quickfire Quiz”**
     Link: The Saylor Foundation’s [“Subunit 2.4 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-2.4.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-2.4.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -921,7 +921,7 @@ id="2.4.1"></span> 
     “Political Parties”**
     Link: US Department of State: Outline of the US Government:
     [“Political
-    Parties”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2312.4.2.pdf) (PDF)  
+    Parties”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2312.4.2.pdf) (PDF)  
         
      Instructions: Read this concise historical explanation of political
     parties in the American system of government. Political parties are
@@ -1033,7 +1033,7 @@ id="2.4.1"></span> 
         
      After you have answered these questions, you may check your work
     against [this guide to
-    responding](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-2.4.2-GuideToResponding-FINAL.pdf).  
+    responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-2.4.2-GuideToResponding-FINAL.pdf).  
         
      Completing this assessment should take approximately 1 hour and 30
     minutes.
@@ -1116,7 +1116,7 @@ id="2.4.3"></span> 
 -   **Web Media: Missouri State University: Dr. Patrick Scott’s
     “Campaigns and Elections”**
     Link: Missouri State University: Dr. Patrick Scott’s [“Campaigns and
-    Elections”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2312.5.pdf) (PDF)  
+    Elections”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2312.5.pdf) (PDF)  
         
      Instructions: Use this PowerPoint as a reference as you watch the
     lectures “Campaigns and Elections,” “Elections,” and “Campaign
@@ -1173,7 +1173,7 @@ id="2.4.3"></span> 
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 11: Campaigns and Elections”**
     Link: *[American Government and Politics in the Information
-    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
+    Age](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
     “Chapter 11: Campaigns and Elections” (PDF)  
         
      Instructions: Read this chapter on pages 406-462. Elections are
@@ -1196,7 +1196,7 @@ id="2.4.3"></span> 
 
 -   **Activity: The Saylor Foundation’s “Subunit 2.5 − Quickfire Quiz”**
     Link: The Saylor Foundation’s [“Subunit 2.5 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-2.5.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-2.5.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -1266,7 +1266,7 @@ id="2.5.1"></span> 
 -   **Assessment: The Saylor Foundation’s “The Presidential Nominating
     System”**
     Link: The Saylor Foundation’s [“The Presidential Nominating
-    System”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-2.5.2-NCCRS-Assessment-FINAL.pdf)
+    System”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-2.5.2-NCCRS-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Every four years, the major political parties in the
@@ -1283,14 +1283,14 @@ id="2.5.1"></span> 
     at the national convention.  
         
      [This
-    assessment](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-2.5.2-NCCRS-Assessment-FINAL.pdf)
+    assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-2.5.2-NCCRS-Assessment-FINAL.pdf)
     is divided into two parts. The first part is a matching exercise, in
     which you will match the term identified with the presidential
     nominating system with its correct description. The second part
     consists of two short-answer questions. Be sure to review the above
     resources before formulating your answers. After you finish, you can
     check your work against [this answer key and guide to
-    responding](https://resources.saylor.org/archived/wp-content/uploads/2013/10/POLSC231-2.5.2-AnswerKeyandGuideToResponding-FINAL.pdf).  
+    responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/POLSC231-2.5.2-AnswerKeyandGuideToResponding-FINAL.pdf).  
         
      Completing this assessment should take approximately 1 hour and 30
     minutes.
@@ -1434,7 +1434,7 @@ id="2.5.3"></span> 
 -   **Activity: The Saylor Foundation’s “Subunit 2.5.4 − Quickfire
     Quiz”**
     Link: The Saylor Foundation’s [“Subunit 2.5.4 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-2.5.4.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-2.5.4.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -1445,7 +1445,7 @@ id="2.5.3"></span> 
 -   **Web Media: Missouri State University: Dr. Patrick Scott’s
     “Interest Groups”**
     Link: Missouri State University: Dr. Patrick Scott’s [“Interest
-    Groups”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2312.6.pdf) (PDF)  
+    Groups”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2312.6.pdf) (PDF)  
         
      Instructions: Use this PowerPoint as a reference as you watch the
     lectures “Interest Groups I” and “Interest Groups II” below.  
@@ -1521,7 +1521,7 @@ id="2.5.3"></span> 
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 9: Interest Groups”**
     Link: [American Government and Politics in the Information
-    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf):
+    Age](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf):
     “Chapter 9: Interest Groups”  
         
      Instructions: Read Chapter 9 on pages 323-353. Interest groups have
@@ -1544,7 +1544,7 @@ id="2.5.3"></span> 
 
 -   **Activity: The Saylor Foundation’s “Subunit 2.6 – Quickfire Quiz”**
     Link: The Saylor Foundation’s [“Subunit 2.6 – Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-2.6.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-2.6.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -1590,7 +1590,7 @@ this statement? Why or why not?*
 -   **Activity: The Saylor Foundation’s “Unit 2 Current Events
     Challenge”**
     Link: The Saylor Foundation’s [“Unit 2 Current Events
-    Challenge”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2312.6.4.1.pdf) (PDF)  
+    Challenge”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2312.6.4.1.pdf) (PDF)  
         
      Instructions: Follow the instructions linked above to connect
     concepts learned in Unit 2 to current political events in American

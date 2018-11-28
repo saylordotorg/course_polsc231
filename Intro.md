@@ -150,7 +150,7 @@ computer;
  √    have competency in the English language;  
     
  √    have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
 and  
     
  √    have completed The Saylor Foundation's [POLSC101: Introduction to
@@ -172,9 +172,9 @@ following materials:
 -   YouTube: Dr. Patrick Scott’s [POLSC231 Video
     Lectures](http://www.youtube.com/user/saylorfoundation#p/c/39BD4000C02CDB4F)
 -   *[American Government and Politics in the Information
-    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*
+    Age](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*
 -   *[Sociology: Understanding and Changing the Social
-    World](https://resources.saylor.org/archived/textbooks/Sociology,%20Understanding%20and%20Changing%20the%20Social%20World.pdf)*
+    World](https://resources.saylor.org/wwwresources/archived/site/textbooks/Sociology,%20Understanding%20and%20Changing%20the%20Social%20World.pdf)*
 
 You will be prompted to read sections of the last two resources
 (textbooks) throughout the course. You may choose to download the full

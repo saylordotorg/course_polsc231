@@ -98,7 +98,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Web Media: Missouri State University: Dr. Patrick Scott’s “Public
     Policy”**
     Link: Missouri State University: Dr. Patrick Scott’s [“Public
-    Policy”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2315.1.pdf) (PDF)  
+    Policy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2315.1.pdf) (PDF)  
         
      Instructions: Use this PowerPoint as a reference as you watch the
     lectures “Public Policy I” and “Public Policy II” below.  
@@ -153,7 +153,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 16: Policymaking and Domestic Policies”**
     Link: *[American Government and Politics in the Information
-    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
+    Age](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
     “Chapter 16: Policymaking and Domestic Policies” (PDF)  
         
      Instructions: Read Chapter 16 on pages 679-725. When government
@@ -181,7 +181,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Activity: The Saylor Foundation’s “Subunit 5.1 − Quickfire Quiz”**
     Link: The Saylor Foundation’s [“Subunit 5.1 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-5.1.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-5.1.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -201,7 +201,7 @@ mainly made by the president’s economic advisors and Congress.*
 -   **Reading: The Saylor Foundation’s “Theories of US Economic
     Policy”**
     Link: The Saylor Foundation’s [“Theories of US Economic
-    Policy”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2315.2.1.pdf) (PDF)  
+    Policy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2315.2.1.pdf) (PDF)  
         
      Instructions: Read this selection. Differences of opinion on how
     government power should be used are usually based on competing
@@ -331,7 +331,7 @@ pay for, and how much.*
 -   **Activity: The Saylor Foundation’s “Subunit 5.2.3 − Quickfire
     Quiz”**
     Link: The Saylor Foundation’s [“Subunit 5.2.3 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-5.2.3.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-5.2.3.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -345,7 +345,7 @@ id="5.3.1"></span> 
     and Development of Social Security”**
     Link: Social Security Administration: [“Historical Background and
     Development of Social
-    Security”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2315.3.1.pdf) (PDF)  
+    Security”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2315.3.1.pdf) (PDF)  
         
      Instructions: Read this overview of the development of social
     public policy in the United States. Pay close attention to where and
@@ -513,7 +513,7 @@ id="5.3.3"></span> 
 -   **Activity: The Saylor Foundation’s “Subunit 5.3.5 − Quickfire
     Quiz”**
     Link: The Saylor Foundation’s [“Subunit 5.3.5 − Quickfire
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/POLSC231-Quickfire-5.3.5.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/POLSC231-Quickfire-5.3.5.pdf) (PDF)  
         
      Instructions: Answer these questions to assess your understanding
     of this subunit.  
@@ -524,7 +524,7 @@ id="5.3.3"></span> 
 -   **Web Media: Missouri State University: Dr. Patrick Scott’s “Foreign
     Policy”**
     Link: Missouri State University: Dr. Patrick Scott’s [“Foreign
-    Policy”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Foreign-Policy.ppt) (PPT)  
+    Policy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Foreign-Policy.ppt) (PPT)  
         
      Instructions: Use this PowerPoint as a reference as you watch the
     lectures “Foreign and Defense Policy I” and “Foreign and Defense
@@ -576,7 +576,7 @@ id="5.3.3"></span> 
 -   **Reading: *American Government and Politics in the Information
     Age*: “Chapter 17: Foreign and National Security Policies”**
     Link: *[American Government and Politics in the Information
-    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
+    Age](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*:
     “Chapter 17: Foreign and National Security Policies” (PDF)  
         
      Instructions: Read Chapter 17 on pages 725-783. The United States
@@ -635,7 +635,7 @@ id="5.4.2"></span> 
 -   **Reading: The Saylor Foundation’s “Background of American Foreign
     Policy”**
     Link: The Saylor Foundation’s [“Background of American Foreign
-    Policy”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2315.4.2.pdf) (PDF)  
+    Policy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2315.4.2.pdf) (PDF)  
         
      Instructions: Read this article, which provides a brief overview of
     the major trends in the foreign policy of the United States from the
@@ -662,7 +662,7 @@ id="5.4.2"></span> 
 **5.4.3 Global Policy Issues** <span id="5.4.3"></span> 
 -   **Reading: The Saylor Foundation’s “Investment and Trade”**
     Link: The Saylor Foundation’s [“Investment and
-    Trade”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/POLSC231-OriginalContent-5.4.4-FINAL.pdf) (PDF)  
+    Trade”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/POLSC231-OriginalContent-5.4.4-FINAL.pdf) (PDF)  
         
      Instructions: Read this article. After the fall of communism, the
     ensuing new world order situated the United States as the world’s
@@ -732,7 +732,7 @@ id="5.4.2"></span> 
 -   **Activity: The Saylor Foundation’s “Unit 5 Current Events
     Challenge”**
     Link: The Saylor Foundation’s [“Unit 5 Current Events
-    Challenge”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC2315.4.32.pdf) (PDF)  
+    Challenge”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC2315.4.32.pdf) (PDF)  
         
      Instructions: Follow the instructions to connect concepts learned
     in Unit 5 to current political events in American government.  
